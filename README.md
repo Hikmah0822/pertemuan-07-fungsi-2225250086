@@ -1,6 +1,8 @@
 # Pertemuan 07 Fungsi Python
 Nama: Hikmah Azizah
+
 NIM: 2225250086
+
 Kelas: 3B
 
 ## Tujuan
